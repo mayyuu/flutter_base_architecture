@@ -152,7 +152,7 @@ abstract class BaseStatefulScreen<
                 key: scaffoldKey,
                 appBar: buildAppbar(),
                 body: buildBody(),
-                resizeToAvoidBottomPadding: resizeToAvoidBottomPadding(),
+                /*resizeToAvoidBottomPadding: resizeToAvoidBottomPadding(),*/
                 bottomNavigationBar: buildBottomNavigationBar(),
                 floatingActionButton: floatingActionButton(),
                 floatingActionButtonLocation: floatingActionButtonLocation(),
